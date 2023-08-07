@@ -11,3 +11,9 @@
 - 로그인을 어떻게 구현할 수 있을까?
 - 아니면 일반 웹 화면에서 버튼과 여러 기능들을 iframe으로 넣고 효율적으로 활용하는 방법은 어떻게 하는게 좋을까?
 - 바로 반영이 되어서 좋네
+
+## 예제 사이트
+
+1. rainfall : [LINK](https://github.com/fiakoengineering/rainfall#readme)
+   - 장점 :
+   - 주요 포인트
